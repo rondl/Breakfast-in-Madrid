@@ -1,2 +1,3 @@
 2 eggs
 salt
+2 sausages
